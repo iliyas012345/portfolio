@@ -1,0 +1,34 @@
+.skill{
+    text-align: center;
+    
+    justify-content: center;
+    bottom: 70%;
+    top: 70%;
+    background-position: center;
+    height: 20vh;
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+    gap: 10%;
+}
+
+.heading{
+    text-align: center;
+    top: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    bottom: 50%;
+}
+
+img{
+    width: 40%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+    background-position: center;
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+
+}
